@@ -1,0 +1,5 @@
+camx-dev (1.0.0) UNRELEASED; urgency=medium
+
+  * Camx headers to be consumed by camera service for all targets
+
+ -- Qualcomm Camera Team <camx.deb.maintainers@qti.qualcomm.com>  Wed, 18 Jun 2026 00:00:00 +0000

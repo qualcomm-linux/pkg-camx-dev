@@ -1,0 +1,17 @@
+Source: camx-dev
+Section: misc
+Priority: optional
+Maintainer: Qualcomm Camera Team <camera.deb.maintainers@qti.qualcomm.com>
+Rules-Requires-Root: no
+Build-Depends:
+ debhelper-compat (= 13),
+Standards-Version: 4.6.2
+Homepage: http://support.cdmatech.com
+
+Package: libcamx-dev
+Architecture: arm64
+Depends:
+ ${shlibs:Depends},
+ ${misc:Depends}
+Description: Qualcomm CamX usermode headers consumed by camera service
+ Target agnostic package for all camx headers
