@@ -1,4 +1,4 @@
-camx-dev (1.0.0) UNRELEASED; urgency=medium
+camx-dev (1.0.0-1) UNRELEASED; urgency=medium
 
   * Camx headers to be consumed by camera service for all targets
 
