@@ -1,5 +1,6 @@
-camx-dev (1.0.0-1) UNRELEASED; urgency=medium
+camx-dev (1.0.0-1) resolute; urgency=medium
 
+  [ Qualcomm Camera Team ]
   * Camx headers to be consumed by camera service for all targets
 
- -- Qualcomm Camera Team <camx.deb.maintainers@qti.qualcomm.com>  Wed, 18 Jun 2026 00:00:00 +0000
+ -- GitHub Service Bot <githubservice@qti.qualcomm.com>  Wed, 15 Jul 2026 17:41:17 +0000
