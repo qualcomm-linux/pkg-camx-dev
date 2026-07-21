@@ -13,5 +13,5 @@ Architecture: arm64
 Depends:
  ${shlibs:Depends},
  ${misc:Depends}
-Description: Qualcomm CamX usermode headers consumed by camera service
+Description: Qualcomm CamX camera stack (development files)
  Target agnostic package for all camx headers
