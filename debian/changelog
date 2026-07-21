@@ -1,8 +1,9 @@
-camx-dev (1.0.30-0qli+staging2~) UNRELEASED; urgency=medium
+camx-dev (1.0.30-0qli+staging2) forky; urgency=medium
 
+  [ Debusine Action GitHub Bot ]
   * Unreleased changes
 
- -- Debusine Action GitHub Bot <noreply@bot.invalid>  Tue, 21 Jul 2026 11:55:26 +0000
+ -- Debusine Action GitHub Bot <noreply@bot.invalid>  Tue, 21 Jul 2026 11:59:11 +0000
 
 camx-dev (1.0.30-0qli+staging1) forky; urgency=medium
 
