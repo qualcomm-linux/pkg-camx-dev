@@ -1,5 +1,6 @@
-camx-dev (1.0.30-0qli+staging1~) UNRELEASED; urgency=medium
+camx-dev (1.0.30-0qli+staging1) forky; urgency=medium
 
+  [ Agathe Porte ]
   * Initial release.
 
- -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Tue, 21 Jul 2026 12:21:51 +0200
+ -- Debusine Action GitHub Bot <noreply@bot.invalid>  Tue, 21 Jul 2026 11:53:24 +0000
