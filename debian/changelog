@@ -1,3 +1,9 @@
+camx-dev (1.0.30-0qli+staging1~bpo13+1~) UNRELEASED; urgency=medium
+
+  * Rebuild for trixie.
+
+ -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Tue, 21 Jul 2026 13:56:23 +0200
+
 camx-dev (1.0.30-0qli+staging1) forky; urgency=medium
 
   [ Agathe Porte ]
