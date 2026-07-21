@@ -1,5 +1,5 @@
 Source: camx-dev
-Section: misc
+Section: non-free/libdevel
 Priority: optional
 Maintainer: Qualcomm Camera Team <camera.deb.maintainers@qti.qualcomm.com>
 Uploaders:
