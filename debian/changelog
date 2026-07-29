@@ -1,8 +1,9 @@
-camx-dev (1.0.32-0qli+staging1~bpo13+1~) UNRELEASED; urgency=medium
+camx-dev (1.0.32-0qli+staging1~bpo13+1) trixie; urgency=medium
 
+  [ Agathe Porte ]
   * Rebuild for trixie.
 
- -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Wed, 29 Jul 2026 11:01:13 +0200
+ -- Debusine Action GitHub Bot <noreply@bot.invalid>  Wed, 29 Jul 2026 09:02:34 +0000
 
 camx-dev (1.0.32-0qli+staging1) forky; urgency=medium
 
