@@ -1,15 +1,8 @@
-camx-dev (1.0.32-0qli+staging4~) UNRELEASED; urgency=medium
+camx-dev (1.0.32-0qli+staging1~) UNRELEASED; urgency=medium
 
   * New upstream release
 
  -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Wed, 29 Jul 2026 10:30:50 +0200
-
-camx-dev (1.0.30-0qli+staging2) forky; urgency=medium
-
-  [ Debusine Action GitHub Bot ]
-  * Unreleased changes
-
- -- Debusine Action GitHub Bot <noreply@bot.invalid>  Tue, 21 Jul 2026 11:59:11 +0000
 
 camx-dev (1.0.30-0qli+staging1) forky; urgency=medium
 
