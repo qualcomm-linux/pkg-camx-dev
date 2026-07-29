@@ -10,3 +10,6 @@ ifeq ($(DEB_HOST_ARCH),arm64)
 	rm -rf $(CURDIR)/debian/tmp/usr/share/doc
 endif
 	:
+
+maintainerclean:
+	rm -r libcamx-dev/
