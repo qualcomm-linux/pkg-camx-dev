@@ -12,7 +12,6 @@ Package: libcamx-dev
 Architecture: all
 Depends:
  ${misc:Depends},
- ${shlibs:Depends},
 Description: Qualcomm CamX camera stack (development files)
  Target agnostic package for all CamX headers, containing:
  .
