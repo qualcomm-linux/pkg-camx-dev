@@ -14,7 +14,7 @@ Depends:
  ${misc:Depends},
  ${shlibs:Depends},
 Description: Qualcomm CamX camera stack (development files)
- Target agnostic package for all camx headers, containing:
+ Target agnostic package for all CamX headers, containing:
  .
-  * /usr/include/camx-v1/ for version 1 aka. Kodiak release
-  * /usr/include/camx-v2/ for version 2 aka. Hamoa release
+  * /usr/include/camx-v1/
+  * /usr/include/camx-v2/
