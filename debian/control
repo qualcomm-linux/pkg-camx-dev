@@ -11,7 +11,7 @@ Vcs-Git: https://github.com/qualcomm-linux/pkg-camx-dev.git
 Package: libcamx-dev
 Architecture: arm64
 Depends:
+ ${misc:Depends},
  ${shlibs:Depends},
- ${misc:Depends}
 Description: Qualcomm CamX camera stack (development files)
  Target agnostic package for all camx headers
