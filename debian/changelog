@@ -1,8 +1,9 @@
-camx-dev (1.0.32-0qli1~) UNRELEASED; urgency=medium
+camx-dev (1.0.32-0qli1) forky; urgency=medium
 
+  [ Agathe Porte ]
   * Initial release to QLI
 
- -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Mon, 10 Aug 2026 13:54:26 +0200
+ -- Debusine Action Bot <noreply@bot.invalid>  Mon, 10 Aug 2026 13:25:07 +0000
 
 camx-dev (1.0.32-0qli+staging1) forky; urgency=medium
 
