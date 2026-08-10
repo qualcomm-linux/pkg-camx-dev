@@ -9,7 +9,7 @@ Vcs-Browser: https://github.com/qualcomm-linux/pkg-camx-dev
 Vcs-Git: https://github.com/qualcomm-linux/pkg-camx-dev.git
 
 Package: libcamx-dev
-Architecture: arm64
+Architecture: all
 Depends:
  ${misc:Depends},
  ${shlibs:Depends},
