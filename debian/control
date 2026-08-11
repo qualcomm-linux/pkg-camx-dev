@@ -17,3 +17,13 @@ Description: Qualcomm CamX camera stack (development files)
  .
   * /usr/include/camx-v1/
   * /usr/include/camx-v2/
+
+Package: camx-server-runtime-all
+Architecture: arm64
+Depends:
+ libcamx-glymur1,
+ libcamx-hamoa1,
+ ${misc:Depends},
+Description: Qualcomm CamX libraries for camera service (metapackage)
+ This package installs all of the available implementations for the CamX camera
+ service.
