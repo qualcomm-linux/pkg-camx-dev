@@ -1,8 +1,8 @@
 camx-dev (1.0.32-0qli2~) UNRELEASED; urgency=medium
 
-  * Unreleased changes
+  * Add metapackage camx-server-runtime-all
 
- -- Debusine Action Bot <noreply@bot.invalid>  Mon, 10 Aug 2026 13:30:28 +0000
+ -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Tue, 11 Aug 2026 17:36:57 +0200
 
 camx-dev (1.0.32-0qli1) forky; urgency=medium
 
