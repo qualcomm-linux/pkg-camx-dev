@@ -1,0 +1,6 @@
+Now that this package is shipping the camx-server-runtime-all metapackage, in
+depends on libcamx-hamoa1 which is not available in forky because of the use of
+an old libxml2 release.
+
+This is why we need to do fake releases to unstable before backporting them to
+trixie starting from this point.
