@@ -1,10 +1,10 @@
-camx-dev (1.0.32-0qli2~) UNRELEASED; urgency=medium
+camx-dev (1.0.32-0qli2) unstable; urgency=medium
 
   * Fake release to unstable as libcamx-hamoa1 is not available in forky
   * Add metapackage camx-server-runtime-all
   * camx-server-runtime-all: temporary drop of libcamx-glymur1
 
- -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Tue, 11 Aug 2026 17:43:07 +0200
+ -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Thu, 13 Aug 2026 11:18:39 +0200
 
 camx-dev (1.0.32-0qli1) forky; urgency=medium
 
