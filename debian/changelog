@@ -1,3 +1,9 @@
+camx-dev (1.0.32-0qli2~bpo13+1~) UNRELEASED; urgency=medium
+
+  * Rebuild for trixie.
+
+ -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Thu, 13 Aug 2026 11:20:08 +0200
+
 camx-dev (1.0.32-0qli2) unstable; urgency=medium
 
   * Fake release to unstable as libcamx-hamoa1 is not available in forky
