@@ -1,6 +1,7 @@
 camx-dev (1.1.0-0qli1~) UNRELEASED; urgency=medium
 
   * New upstream release
+  * Fake release to unstable as libcamx-hamoa1 is not available in forky
   * d/watch: use tarball release version
   * Revert "camx-server-runtime-all: temporary drop of libcamx-glymur1"
 
