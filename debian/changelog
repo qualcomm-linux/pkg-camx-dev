@@ -1,4 +1,4 @@
-camx-dev (1.1.0-0qli1~) unstable; urgency=medium
+camx-dev (1.1.0-0qli1) unstable; urgency=medium
 
   * New upstream release
   * Fake release to unstable as libcamx-hamoa1 is not available in forky
