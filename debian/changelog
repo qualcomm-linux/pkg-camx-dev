@@ -1,3 +1,10 @@
+camx-dev (1.1.0-0qli1~) UNRELEASED; urgency=medium
+
+  * New upstream release
+  * d/watch: use tarball release version
+
+ -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Tue, 18 Aug 2026 11:32:05 +0200
+
 camx-dev (1.0.32-0qli2) unstable; urgency=medium
 
   * Fake release to unstable as libcamx-hamoa1 is not available in forky
