@@ -1,0 +1,8 @@
+Note that the changelog contained in the upstream tarball contains an
+unreliable version that should not be reused in d/changelog; see:
+https://github.com/qualcomm-linux/pkg-camx-dev/issues/8
+
+The version to be used in d/changelog is the one that will come from the
+upstream tarball name, and the content of the shipped
+libcamx-dev/arm64/usr/share/doc/libcamx-dev/changelog.gz file should be
+ignored.
