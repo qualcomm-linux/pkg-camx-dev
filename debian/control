@@ -15,3 +15,14 @@ Depends:
  ${misc:Depends}
 Description: Qualcomm CamX usermode headers consumed by camera service
  Target agnostic package for all camx headers
+
+Package: camx-server-runtime-all
+Architecture: arm64
+Depends:
+ libcamx-hamoa1,
+ libcamx-kodiak1,
+ libcamx-lemans1,
+ ${misc:Depends},
+Description: Qualcomm CamX libraries for camera service (metapackage)
+ This package installs all of the available implementations for the CamX camera
+ service.
