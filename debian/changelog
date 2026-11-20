@@ -1,8 +1,9 @@
-camx-dev (1.1.1-3~) UNRELEASED; urgency=medium
+camx-dev (1.1.1-3) UNRELEASED; urgency=medium
 
-  * WIP — update changelog before next release
+  * debian/control: add libcamx-shikra1 to the camx-server-runtime-all
+    metapackage.
 
- -- Qualcomm Camera Team <camera.deb.maintainers@qti.qualcomm.com>  Wed, 28 Oct 2026 04:04:55 +0000
+ -- Qualcomm Camera Team <camera.deb.maintainers@qti.qualcomm.com>  Fri, 20 Nov 2026 08:40:00 +0000
 
 camx-dev (1.1.1-2) resolute; urgency=medium
 
