@@ -1,9 +1,10 @@
-camx-dev (1.1.1-3) UNRELEASED; urgency=medium
+camx-dev (1.1.1-3) resolute; urgency=medium
 
+  [ Qualcomm Camera Team ]
   * debian/control: add libcamx-shikra1 to the camx-server-runtime-all
     metapackage.
 
- -- Qualcomm Camera Team <camera.deb.maintainers@qti.qualcomm.com>  Fri, 20 Nov 2026 08:40:00 +0000
+ -- GitHub Service Bot <githubservice@qti.qualcomm.com>  Mon, 23 Nov 2026 11:18:57 +0000
 
 camx-dev (1.1.1-2) resolute; urgency=medium
 
